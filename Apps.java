@@ -39,10 +39,7 @@ class Instagram extends Softwares {// child class
     }
 }
 
-//    void app_close(){
-//        System.out.println("App is close......");
-//    }
-//}
+
 
 public class Apps {
     public static void main(String[] args) {
